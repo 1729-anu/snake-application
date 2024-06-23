@@ -21,9 +21,6 @@ This is a simple Snake game implemented in Python using the Pygame library.
 - Left Arrow: Move the snake left
 - Right Arrow: Move the snake right
 
-## Credits
-- This game was created by [Your Name]
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
