@@ -1,7 +1,3 @@
-Creating a README file for your Snake game project can help users understand how to run the game and provide any additional information they might need. Here's a basic template you can use:
-
----
-
 # Snake Game
 
 ## Description
@@ -31,6 +27,3 @@ This is a simple Snake game implemented in Python using the Pygame library.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-You can add more sections or details as needed for your project.
